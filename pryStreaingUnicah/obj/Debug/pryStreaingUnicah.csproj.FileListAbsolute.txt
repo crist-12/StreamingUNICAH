@@ -1,0 +1,28 @@
+c:\users\administrador\documents\visual studio 2015\Projects\pryStreaingUnicah\pryStreaingUnicah\bin\Debug\pryStreaingUnicah.exe.config
+c:\users\administrador\documents\visual studio 2015\Projects\pryStreaingUnicah\pryStreaingUnicah\bin\Debug\pryStreaingUnicah.exe
+c:\users\administrador\documents\visual studio 2015\Projects\pryStreaingUnicah\pryStreaingUnicah\bin\Debug\pryStreaingUnicah.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\pryStreaingUnicah\pryStreaingUnicah\bin\Debug\EntityFramework.dll
+c:\users\administrador\documents\visual studio 2015\Projects\pryStreaingUnicah\pryStreaingUnicah\bin\Debug\EntityFramework.xml
+c:\users\administrador\documents\visual studio 2015\Projects\pryStreaingUnicah\pryStreaingUnicah\obj\Debug\pryStreaingUnicah.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2015\Projects\pryStreaingUnicah\pryStreaingUnicah\obj\Debug\pryStreaingUnicah.Form1.resources
+c:\users\administrador\documents\visual studio 2015\Projects\pryStreaingUnicah\pryStreaingUnicah\obj\Debug\pryStreaingUnicah.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2015\Projects\pryStreaingUnicah\pryStreaingUnicah\obj\Debug\pryStreaingUnicah.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2015\Projects\pryStreaingUnicah\pryStreaingUnicah\obj\Debug\pryStreaingUnicah.exe
+c:\users\administrador\documents\visual studio 2015\Projects\pryStreaingUnicah\pryStreaingUnicah\obj\Debug\pryStreaingUnicah.pdb
+C:\Users\Administrador\documents\visual studio 2015\Projects\pryStreaingUnicah\pryStreaingUnicah\obj\Debug\pryStreaingUnicah.MantenimientoEstudios.resources
+C:\Users\Administrador\documents\visual studio 2015\Projects\pryStreaingUnicah\pryStreaingUnicah\obj\Debug\pryStreaingUnicah.CalidadCamisas.resources
+C:\Users\Eliab Evora\Desktop\pryStreaingUnicah\pryStreaingUnicah\obj\Debug\pryStreaingUnicah.csprojAssemblyReference.cache
+C:\Users\Eliab Evora\Desktop\pryStreaingUnicah\pryStreaingUnicah\obj\Debug\pryStreaingUnicah.Form1.resources
+C:\Users\Eliab Evora\Desktop\pryStreaingUnicah\pryStreaingUnicah\obj\Debug\pryStreaingUnicah.Properties.Resources.resources
+C:\Users\Eliab Evora\Desktop\pryStreaingUnicah\pryStreaingUnicah\obj\Debug\pryStreaingUnicah.csproj.GenerateResource.cache
+C:\Users\Eliab Evora\Desktop\pryStreaingUnicah\pryStreaingUnicah\obj\Debug\pryStreaingUnicah.csproj.CoreCompileInputs.cache
+C:\Users\Eliab Evora\Desktop\pryStreaingUnicah\pryStreaingUnicah\obj\Debug\pryStreaingUnicah.exe
+C:\Users\Eliab Evora\Desktop\pryStreaingUnicah\pryStreaingUnicah\obj\Debug\pryStreaingUnicah.pdb
+C:\Users\Eliab Evora\Desktop\pryStreaingUnicah\pryStreaingUnicah\bin\Debug\pryStreaingUnicah.exe.config
+C:\Users\Eliab Evora\Desktop\pryStreaingUnicah\pryStreaingUnicah\bin\Debug\pryStreaingUnicah.exe
+C:\Users\Eliab Evora\Desktop\pryStreaingUnicah\pryStreaingUnicah\bin\Debug\pryStreaingUnicah.pdb
+C:\Users\Eliab Evora\Desktop\pryStreaingUnicah\pryStreaingUnicah\bin\Debug\EntityFramework.dll
+C:\Users\Eliab Evora\Desktop\pryStreaingUnicah\pryStreaingUnicah\bin\Debug\EntityFramework.xml
+C:\Users\Eliab Evora\Desktop\pryStreaingUnicah\pryStreaingUnicah\obj\Debug\pryStreaingUnicah.csproj.CopyComplete
+C:\Users\Eliab Evora\Desktop\pryStreaingUnicah\pryStreaingUnicah\obj\Debug\pryStreaingUnicah.Form2.resources
+C:\Users\Eliab Evora\Desktop\pryStreaingUnicah\pryStreaingUnicah\obj\Debug\pryStreaingUnicah.Form3.resources
